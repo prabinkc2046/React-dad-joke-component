@@ -14,6 +14,10 @@ A simple React component that fetches and displays dad jokes using the "icanhazd
 - Bootstrap
 - Axios
 
+## Live Demo
+
+[Live Demo]()
+
 ## Usage
 
 1. Clone the repository:
@@ -30,7 +34,6 @@ A simple React component that fetches and displays dad jokes using the "icanhazd
 
 	````bash
 	npm start
-	```
 
 Open your browser and navigate to http://localhost:3000 to view the Dad Joke React Component.
 
