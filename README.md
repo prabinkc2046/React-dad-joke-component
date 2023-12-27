@@ -23,10 +23,8 @@ A simple React component that fetches and displays dad jokes using the "icanhazd
 
 2. Install dependencies:
 
-	```
-	bash	
+	```bash	
 	npm install
-	```
 
 3. Run the application:
 
